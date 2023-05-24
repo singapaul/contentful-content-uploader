@@ -1,0 +1,16 @@
+{
+  "name": "uploads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npm run uploadContent.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-import": "^8.5.55",
+    "contentful-management": "^10.35.4"
+  }
+}
