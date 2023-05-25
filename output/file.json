@@ -1,80 +1,226 @@
 [
   {
+    "title": "Mamporrero",
+    "country": "Spanish",
+    "definition": "A mamporrero is a person who enthusiastically engages in trivial or unimportant tasks without achieving significant results. For example, Juan spent the whole day rearranging his desk, but he didn't accomplish anything important. He's such a mamporrero.",
+    "phonetic": "mahm-poh-reh-roh",
+    "slug": "mamporrero"
+  },
+  {
+    "title": "Backpfeifengesicht",
+    "country": "German",
+    "definition": "Backpfeifengesicht refers to a face that has an irresistibly annoying or slap-worthy expression, often implying someone's dislike or contempt towards that person. For instance, every time he smirks like that, I can't help but think of giving him a slap. He has a real backpfeifengesicht.",
+    "phonetic": "bahk-fy-fen-geh-ziht",
+    "slug": "backpfeifengesicht"
+  },
+  {
     "title": "Feierabend",
     "country": "German",
-    "definition": "Feierabend is the German word for the time after work when you can relax and enjoy your evening. It signifies the moment to unwind and recharge.",
+    "definition": "Feierabend is the German word for the time after work when you can relax and enjoy your evening. It signifies the moment to unwind and recharge. You can say, \"After a long day, I look forward to my Feierabend, where I can kick back and relax with a good book.\"",
     "phonetic": "fy-er-ah-bent",
     "slug": "feierabend"
   },
   {
     "title": "Pantoffelheld",
     "country": "German",
-    "definition": "Pantoffelheld is a German term used to describe a man who is controlled or dominated by his partner. Picture a guy who doesn't make any decisions without his partner's approval.",
+    "definition": "Pantoffelheld is a German term used to describe a man who is controlled or dominated by his partner. Picture a guy who doesn't make any decisions without his partner's approval. For example, Mark never goes out with his friends unless his wife allows it. He's a classic Pantoffelheld.",
     "phonetic": "pahn-toh-fel-held",
     "slug": "pantoffelheld"
   },
   {
     "title": "Toska",
     "country": "Russian",
-    "definition": "Toska is a Russian word that encapsulates a deep, spiritual anguish or longing. It represents a complex emotional state of melancholy and yearning.",
+    "definition": "Toska is a Russian word that encapsulates a deep, spiritual anguish or longing. It represents a complex emotional state of melancholy and yearning. For instance, as he stared out the window on a rainy day, he couldn't shake off the feeling of toska, a profound longing for something unattainable.",
     "phonetic": "tohs-kah",
     "slug": "toska"
   },
   {
+    "title": "Friolero",
+    "country": "Spanish",
+    "definition": "Friolero is a Spanish term used to describe someone who feels the cold easily. It refers to a person who is particularly sensitive to low temperatures. For example, Maria always wears multiple layers even in mild weather. She's a real friolero.",
+    "phonetic": "free-oh-leh-roh",
+    "slug": "friolero"
+  },
+  {
+    "title": "Fika",
+    "country": "Swedish",
+    "definition": "Fika is a Swedish concept that involves taking a break for coffee and socializing. It's an opportunity to connect with others over a cup of coffee and some pastries. For instance, \"Let's take a fika and catch up this afternoon.\"",
+    "phonetic": "fee-kah",
+    "slug": "fika"
+  },
+  {
+    "title": "Schadenfreude",
+    "country": "German",
+    "definition": "Schadenfreude is a German word that represents the pleasure derived from someone else's misfortune. It's that feeling of satisfaction or joy when witnessing others' failures or setbacks. For example, I couldn't help but feel a twinge of schadenfreude when my rival's project failed.",
+    "phonetic": "shah-den-froi-duh",
+    "slug": "schadenfreude"
+  },
+  {
     "title": "Kyōiku mama",
     "country": "Japanese",
-    "definition": "Kyōiku mama is a Japanese term used to describe a mother who pushes her child to excel academically.",
+    "definition": "Kyōiku mama is a Japanese term used to describe a mother who pushes her child to excel academically. It refers to a parent who places excessive emphasis on their child's education and success. For instance, Yumi's mother constantly hires tutors to improve her grades. She's a classic Kyōiku mama.",
     "phonetic": "kyoh-ee-koo mah-mah",
     "slug": "kyoiku-mama"
   },
-
+  {
+    "title": "Cwtch",
+    "country": "Welsh",
+    "definition": "Cwtch is a Welsh word that denotes a cozy, cuddly hug. It describes an affectionate embrace filled with warmth and love. For example, after a long day, Sarah wrapped her arms around her daughter and gave her a tight cwtch.",
+    "phonetic": "kootch",
+    "slug": "cwtch"
+  },
   {
     "title": "Kummerspeck",
     "country": "German",
-    "definition": "Kummerspeck is a German term literally meaning \"grief bacon.\" It refers to the excess weight gained from emotional overeating, often as a result of stress or sadness.",
+    "definition": "Kummerspeck is a German term literally meaning \"grief bacon.\" It refers to the excess weight gained from emotional overeating, often as a result of stress or sadness. For instance, Amy found solace in ice cream after her breakup, resulting in some noticeable kummerspeck.",
     "phonetic": "koom-er-spek",
     "slug": "kummerspeck"
   },
   {
     "title": "Shemomedjamo",
     "country": "Georgian",
-    "definition": "Shemomedjamo is a Georgian word that describes the act of eating to the point where you're full but still want more.",
+    "definition": "Shemomedjamo is a Georgian word that describes the act of eating to the point where you're full but still want more. It's that feeling when you can't resist indulging in delicious food even though you're already stuffed. For example, despite being full, I couldn't resist shemomedjamo with that decadent chocolate cake.",
     "phonetic": "shem-oh-med-ja-moh",
     "slug": "shemomedjamo"
   },
   {
     "title": "Pelinti",
     "country": "Bantu",
-    "definition": "Pelinti is a Bantu word that refers to the action of moving hot food around in your mouth to cool it down.",
+    "definition": "Pelinti is a Bantu word that refers to the action of moving hot food around in your mouth to cool it down. Imagine taking a bite of piping hot soup and instinctively rolling it around to avoid burning your tongue. For instance, she quickly pelinti-ed the spoonful of steaming soup.",
     "phonetic": "peh-leen-tee",
     "slug": "pelinti"
   },
   {
     "title": "Tartle",
     "country": "Scottish",
-    "definition": "Tartle is a Scottish term that describes the hesitation to introduce someone because you've momentarily forgotten their name. It's that awkward moment of struggling to recall a person's name in a social situation.",
+    "definition": "Tartle is a Scottish term that describes the hesitation to introduce someone because you've momentarily forgotten their name. It's that awkward moment of struggling to recall a person's name in a social situation. For example, I experienced a tartle when I couldn't remember my colleague's name at the party.",
     "phonetic": "tar-tul",
     "slug": "tartle"
   },
   {
     "title": "Merak",
     "country": "Serbian",
-    "definition": "Merak is a Serbian word that encompasses the feeling of bliss and the sense of oneness with the universe. It represents deep satisfaction and contentment.",
+    "definition": "Merak is a Serbian word that encompasses the feeling of bliss and the sense of oneness with the universe. It represents deep satisfaction and contentment. For instance, as she sat by the seaside, soaking in the sunset, she couldn't help but feel a profound sense of merak.",
     "phonetic": "meh-rak",
     "slug": "merak"
   },
   {
+    "title": "Boketto",
+    "country": "Japanese",
+    "definition": "Boketto is a Japanese term that describes the act of gazing vacantly into the distance, lost in one's thoughts. It refers to that absent-minded state where the mind wanders without a specific focus. For example, she sat on the park bench, boketto-ing into the horizon, contemplating life's mysteries.",
+    "phonetic": "boh-keh-toh",
+    "slug": "boketto"
+  },
+  {
+    "title": "Gezellig",
+    "country": "Dutch",
+    "definition": "Gezellig is a Dutch word that signifies a warm, cozy, and convivial atmosphere. It encapsulates the feeling of comfort, togetherness, and a pleasant ambiance. For example, sitting by the fireplace with friends, sharing stories and laughter, creates a truly gezellig environment.",
+    "phonetic": "geh-zell-ich",
+    "slug": "gezellig"
+  },
+  {
+    "title": "Abbiocco",
+    "country": "Italian",
+    "definition": "Abbiocco is an Italian term used to describe the drowsiness or sleepiness that one feels after a big meal. It refers to that delightful state of feeling pleasantly full and ready for a nap. For example, after indulging in a lavish Italian dinner, I couldn't resist the abbiocco that followed.",
+    "phonetic": "ahb-bee-ok-ko",
+    "slug": "abbiocco"
+  },
+  {
+    "title": "Lekker",
+    "country": "Dutch",
+    "definition": "Lekker is a Dutch word used to describe something delicious, tasty, or pleasing. It represents the sheer enjoyment derived from indulging in delightful experiences. For instance, \"This chocolate cake is so lekker!\"",
+    "phonetic": "leh-ker",
+    "slug": "lekker"
+  },
+  {
+    "title": "Hikikomori",
+    "country": "Japanese",
+    "definition": "Hikikomori is a Japanese term that describes a person, typically a young adult, who isolates themselves and withdraws from society. They often confine themselves to their room for an extended period, avoiding social interaction. For example, Mark has been a hikikomori for the past year, rarely leaving his house.",
+    "phonetic": "hee-kee-koh-moh-ree",
+    "slug": "hikikomori"
+  },
+  {
+    "title": "Pilkunnussija",
+    "country": "Finnish",
+    "definition": "Pilkunnussija is a Finnish word used to describe a person who is overly pedantic about grammar and punctuation. It refers to someone who obsesses over the tiniest details of language correctness. For instance, he's such a pilkunnussija that he can't help but correct everyone's grammar on social media.",
+    "phonetic": "pil-kun-nus-see-yah",
+    "slug": "pilkunnussija"
+  },
+  {
+    "title": "Passeggiata",
+    "country": "Italian",
+    "definition": "Passeggiata is an Italian word that describes a leisurely stroll or walk, often taken in the evening as a social activity. It's a time to relax, connect with others, and enjoy the surroundings. For instance, after dinner, the town's residents gathered for a passeggiata along the promenade.",
+    "phonetic": "pahs-seh-jee-ah-tah",
+    "slug": "passeggiata"
+  },
+  {
+    "title": "Tingo",
+    "country": "Pascuense",
+    "definition": "Tingo is a Pascuense word that refers to the act of gradually borrowing things from a friend's house by borrowing them one by one. For instance, John is Tingo-ing his neighbor's tools, borrowing a different one each time he visits.",
+    "phonetic": "teen-go",
+    "slug": "tingo"
+  },
+  {
     "title": "Bakku-shan",
     "country": "Japanese",
-    "definition": "Bakku-shan is a Japanese term that describes a girl who looks pretty from behind but not from the front. It refers to someone who appears attractive only when seen from a specific angle or perspective.",
+    "definition": "Bakku-shan is a Japanese term that describes a girl who looks pretty from behind but not from the front. It refers to someone who appears attractive only when seen from a specific angle or perspective. For example, she's a real bakku-shan—gorgeous until she turns around.",
     "phonetic": "bah-koo-shahn",
     "slug": "bakku-shan"
   },
   {
+    "title": "Nakkelemburg",
+    "country": "Danish",
+    "definition": "Nakkelemburg is a Danish word that describes the act of tilting your head back and shaking it in disbelief or amusement.Example: When she heard the outrageous joke, she couldn't help but nakkelemburg in surprise and laughter.",
+    "phonetic": "nah-ke-luhm-buhrg",
+    "slug": "nakkelemburg"
+  },
+  {
     "title": "Kuidaore",
     "country": "Japanese",
-    "definition": "Kuidaore is a Japanese word that means \"to ruin oneself by extravagance in food.\" It describes the act of eating oneself into bankruptcy or financial ruin due to excessive indulgence in gourmet food.",
+    "definition": "Kuidaore is a Japanese word that means \"to ruin oneself by extravagance in food.\" It describes the act of eating oneself into bankruptcy or financial ruin due to excessive indulgence in gourmet food. He went to the fancy restaurant and engaged in kuidaore, ordering multiple courses and desserts until he couldn't pay the bill.",
     "phonetic": "koo-ee-dah-oh-reh",
     "slug": "kuidaore"
+  },
+  {
+    "title": "Pochemuchka",
+    "country": "Russian",
+    "definition": "Pochemuchka is a Russian word that describes a person, often a child, who incessantly asks questions about everything. Example: Her little brother is such a pochemuchka, always asking \"Why?\" about everything he sees and hears.",
+    "phonetic": "poh-che-mooch-ka",
+    "slug": "pochemuchka"
+  },
+  {
+    "title": "Mamihlapinatapai",
+    "country": "Yaghan",
+    "definition": "Mamihlapinatapai is a Yaghan word that describes a wordless, meaningful look shared between two people who want each other to act. Example: In that mamihlapinatapai moment, they both understood the desire for a spontaneous adventure.",
+    "phonetic": "mah-mee-lah-pee-na-ta-pie",
+    "slug": "mamihlapinatapai"
+  },
+  {
+    "title": "Wabi-sabi",
+    "country": "Japanese",
+    "definition": "Wabi-sabi is a Japanese concept that represents the acceptance of imperfection and the appreciation of the beauty of the flawed. Example: The cracked teacup showcased the wabi-sabi aesthetic, embracing its imperfections as a unique part of its charm.",
+    "phonetic": "wah-bee-sah-bee",
+    "slug": "wabi-sabi"
+  },
+  {
+    "title": "Tsundoku",
+    "country": "Japanese",
+    "definition": "Tsundoku is a Japanese term that describes the act of acquiring books but letting them pile up unread. Example: Her bookshelves were filled with tsundoku—books she had bought with the intention of reading but never got around to.",
+    "phonetic": "soon-doh-koo",
+    "slug": "tsundoku"
+  },
+  {
+    "title": "Luftmensch",
+    "country": "Yiddish",
+    "definition": "Luftmensch is a Yiddish word that describes someone who is a dreamer, someone who is not practical or successful in the real world. Example: He was a classic luftmensch, always lost in his imagination, but struggling to find stability in his everyday life.",
+    "phonetic": "looft-men-sh",
+    "slug": "luftmensch"
+  },
+  {
+    "title": "Sobremesa",
+    "country": "Spanish",
+    "definition": "Sobremesa is a Spanish word that refers to the time spent lingering at the table after a meal, enjoying conversation and company. Example: The family enjoyed a long sobremesa, sharing stories, laughter, and bonding over coffee and dessert.",
+    "phonetic": "soh-breh-meh-sah",
+    "slug": "sobremesa"
   }
 ]
